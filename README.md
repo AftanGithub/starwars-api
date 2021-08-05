@@ -1,6 +1,7 @@
 # starwars
 
-It is a react application which gets data from swapapi, it gives the data of people and planets of starwars series. This react application consist react-query,react-router,hooks,etc. for better performance
+It is a react application which gets data from swapapi, it gives the data of people and planets of starwars series. This react application consist react-query,react-router,hooks,etc. for better performance.
+
 # preview Home
 ![home](https://user-images.githubusercontent.com/75898512/127447220-38e78873-6386-43fd-aea3-99b3f5259f04.PNG)
 
